@@ -11,3 +11,14 @@ implementan.
 determinado problema de modo eficiente.
 
 ● Poder extender un TAD añadiendo operaciones propias
+
+● Listas
+
+● Pilas
+
+● Colas
+
+● Conjuntos
+
+● Diccionarios
+
